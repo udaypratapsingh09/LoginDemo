@@ -1,0 +1,8 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+#todo-list {
+  margin: 0 auto;
+  width: max-content;
+}
